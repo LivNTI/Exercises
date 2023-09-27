@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BAM/BAM.iml" filepath="$PROJECT_DIR$/BAM/BAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises.iml" filepath="$PROJECT_DIR$/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LitenShop/LitenShop.iml" filepath="$PROJECT_DIR$/LitenShop/LitenShop.iml" />
     </modules>
   </component>
 </project>
